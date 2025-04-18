@@ -2,7 +2,7 @@
 🔭 I’m currently working as a Development Engineer, focused on creating innovative solutions. <br>
 👯 I’m eager to collaborate on projects in machine learning, data analytics, natural language processing, and generative AI. <br>
 🤝 I’m committed to staying ahead in the rapidly evolving field of data analytics and artificial intelligence. <br>
-🌱 I’m currently diving deep into CUDA programming and exploring the exciting realm of quantum computing. <br>
+🌱 I’m currently diving deep into CUDA programming and exploring the exciting realm of reinforcement learning. <br>
 💬 Feel free to ask me about Python, TensorFlow, machine learning models, and transformers – always happy to share insights! <br>
 
 
