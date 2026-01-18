@@ -1,8 +1,8 @@
-🤖 I work on building Agentic AI systems and RAG pipelines that reason, plan, retrieve, and act in real-world scenarios.
-⚡ I focus on LLM inference and performance optimization, working on throughput, latency, and memory efficiency in production systems.
-🧠 I enjoy operating at the intersection of models and systems — turning large models into fast, reliable, and scalable services.
-🚀 I’m currently diving deep into LLM serving stacks, CUDA, and inference optimization techniques like KV caching, batching, and kernel-level acceleration.
-💬 Feel free to ask me about LLM systems, RAG, vLLM, TensorRT-LLM, Triton, LoRA/PEFT, and ML infrastructure — always happy to nerd out on performance and systems!
+🤖 I work on building Agentic AI systems and RAG pipelines that reason, plan, retrieve, and act in real-world scenarios.<br>
+⚡ I focus on LLM inference and performance optimization, working on throughput, latency, and memory efficiency in production systems.<br>
+🧠 I enjoy operating at the intersection of models and systems — turning large models into fast, reliable, and scalable services.<br>
+🚀 I’m currently diving deep into LLM serving stacks, CUDA, and inference optimization techniques like KV caching, batching, and kernel-level acceleration.<br>
+💬 Feel free to ask me about LLM systems, RAG, vLLM, TensorRT-LLM, Triton, LoRA/PEFT, and ML infrastructure — always happy to nerd out on performance and systems!<br>
 
 
 ## 🌐 Socials:
